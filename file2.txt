@@ -1,1 +1,2 @@
-개발원에서 작성
+폴더 안에서  소스를 올려주고 
+git status > git add * > git commit -m "first commit" >git push
