@@ -1,2 +1,4 @@
 폴더 안에서  소스를 올려주고 
 git status > git add * > git commit -m "first commit" >git push
+
+다시 집에서와서 git을 가져오기위해서는 git pull를 사용해야한다.
